@@ -10,5 +10,6 @@
                 t1 = t2;
                 t2 = sum;
             }
+	    System.out.print("Printing Finished.");
         }
     }
